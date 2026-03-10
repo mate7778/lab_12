@@ -1,0 +1,14 @@
+name: flutter_pokemon_lab
+description: A simple pokedex demo.
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.2.3
+
+flutter:
+  uses-material-design: true
